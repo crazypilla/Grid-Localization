@@ -1,0 +1,293 @@
+#ROSBAG V2.0
+E      chunk_count=      conn_count=      index_pos=£g         op=»                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             )      compression=none   op=	   size=—N  —N  (   	   conn=       op=   topic=Movementsš  '   md5sum=720b0c53a7b95aaae8783915252c8f0dW  message_definition=int32 timeTag
+geometry_msgs/Quaternion rotation1
+float64 translation
+geometry_msgs/Quaternion rotation2
+
+================================================================================
+MSG: geometry_msgs/Quaternion
+# This represents an orientation in free space in quaternion form.
+
+float64 x
+float64 y
+float64 z
+float64 w
+   type=lab3/Motion&   	   conn=       op=
+   time=Cž-UÍ`IL                      X™TKµ-x¿®HvÛÿï?äÉå?Ò?                ´Äß¡â‡?ÚT^qÿï?+   	   conn=      op=   topic=Observations‚  '   md5sum=b962468f892f707011ae231ec4acdeb5:  message_definition=int32 timeTag
+int32 tagNum
+float64 range
+geometry_msgs/Quaternion bearing 
+
+================================================================================
+MSG: geometry_msgs/Quaternion
+# This represents an orientation in free space in quaternion form.
+
+float64 x
+float64 y
+float64 z
+float64 w
+   type=lab3/Observation&   	   conn=      op=
+   time=Cž-UÂuJ0          J+‡ë?                ÔÉår?UM¤¯éÿï?&   	   conn=       op=
+   time=Cž-U 
+KL                      Þ"Ý!Yå?okwhŽÖç?óì£SWÒ?                }Ô¥3±?R
+¹=|íï?&   	   conn=      op=
+   time=Cž-U¢UK0         å~‡¢@Ÿè?                èm*¨f¸¿[ÀÕháÛï?&   	   conn=       op=
+   time=Cž-U—œKL                      ¥–Émf¿ºÈ#øÿï?Y†8ÖÅmÒ?                øáQþë^¿jôDüÿï?&   	   conn=      op=
+   time=Cž-UXêK0         å~‡¢@Ÿè?                èm*¨f¸¿[ÀÕháÛï?&   	   conn=       op=
+   time=Cž-U×.LL                      ¶ä^“¦\¿ª6#Ëüÿï?'1¬ZÒ?                ‹yâQÅ!a¿ƒýiûÿï?&   	   conn=      op=
+   time=Cž-UppL0         å~‡¢@Ÿè?                èm*¨f¸¿[ÀÕháÛï?&   	   conn=       op=
+   time=Cž-UÀ³LL   	                   ¶ÈËô[¿tÍ¹!ýÿï?ï_{fIÒ?                uÏ[A(^¿Ÿwüÿï?&   	   conn=      op=
+   time=Cž-U£óL0   
+      å~‡¢@Ÿè?                èm*¨f¸¿[ÀÕháÛï?&   	   conn=       op=
+   time=Cž-UO=ML                      wÐ
+Žïg¿“ýO÷ÿï?zßøÚ3KÒ?                #‚”5Ã¿B‰"ÿï?&   	   conn=      op=
+   time=Cž-U«}M0         å~‡¢@Ÿè?                èm*¨f¸¿[ÀÕháÛï?&   	   conn=       op=
+   time=Cž-U;ÀML   
+                   %9å:’€¿ÝbýX»ÿï?x$(~Ò?                1?¤¿½–½—ùï?&   	   conn=      op=
+   time=Cž-UåÿM0         å~‡¢@Ÿè?                èm*¨f¸¿[ÀÕháÛï?&   	   conn=       op=
+   time=Cž-UHDNL                      tXgQc·ä?
+“È¡cè?;ªš ê>Ò?               €GE• ;ýï¿É÷ÅNðŸš¿&   	   conn=      op=
+   time=Cž-UN…N0         S£’:ñ?                ¹­ØÑÆäÉ?ûå‰ó Vï?&   	   conn=       op=
+   time=Cž-UÍÊNL             €        -ÇQ21^î?Û¾”-Ô¿ÞT¤ÂØBÒ?                TŽ
+u2Cî¿Kœð	VÍÔ?&   	   conn=      op=
+   time=Cž-U7O0         ·Ñ Þþ?                un¬ûKP‰?OmÌ_ÿï?&   	   conn=       op=
+   time=Cž-U:fOL                      ¶Â¾6¬w¿àÍ“ùÜÿï?(¸XQƒiÒ?                ž%3ï‡ a¿2v·{ûÿï?&   	   conn=      op=
+   time=Cž-Uª©O0         ·Ñ Þþ?                un¬ûKP‰?OmÌ_ÿï?&   	   conn=       op=
+   time=Cž-UñíOL                      «È2ÓF¿
+ŽÂ}ÿÿï?²×»?Ò?                I2„¨t`¿ª*Åûÿï?&   	   conn=      op=
+   time=Cž-Uý.P0         ·Ñ Þþ?                un¬ûKP‰?OmÌ_ÿï?&   	   conn=       op=
+   time=Cž-UÝrPL                       ÊzHoC¿ñ¶’¡ÿÿï?Cÿ+jÒ?                P*•8jP¿ë²Òÿþÿï?&   	   conn=      op=
+   time=Cž-Uq´P0         «ÏÕVì/ú?                ›¿¿ÜÌ–?Q„ç;øýï?&   	   conn=       op=
+   time=Cž-UaøPL                      6fRº×¼?»ÙF»Îï?÷;úDÒ?                7L–·?jé~ÔÞï?&   	   conn=      op=
+   time=Cž-U1;Q0         «ÏÕVì/÷?                eò¾4ÀÆ¿/×}ï?&   	   conn=       op=
+   time=Cž-U%QL                      wè™žì?iç ž¹ˆÞ?6×†ŠqÒ?                ,™Ôé×ýï¿»UêÊ¶~—?&   	   conn=      op=
+   time=Cž-U¸ÁQ0         46<½ú?                É9¤\ÀÏ?ÜbÍðõÿî?&   	   conn=       op=
+   time=Cž-U,RL                      ö±Šúùÿï?Fó¨ët¡c?ò{›þìGÒ?               €]uñùÿï¿ØÂ®ûÜ°c¿&   	   conn=      op=
+   time=Cž-UTR0         h"lxz¥ý?                ¦]õ»4RÌ?i#Hcö4ï?&   	   conn=       op=
+   time=Cž-U-°RL             €        †kì—¼ðï?ØRõÖt=¯¿‹¦³“ÁQÒ?                1kj¬ñÿï¿3Ñ½Gn?&   	   conn=      op=
+   time=Cž-UŸðR0          X9´Èö @                }D£’âÀ?ÉŠ¤9i¸ï?&   	   conn=       op=
+   time=Cž-Uš2SL   !                   C¼ZÞ<†?3½â]„ÿï?¥t{IcÒ?                `Æê…¶¬³?×HóYÅçï?&   	   conn=      op=
+   time=Cž-U=qS0   "      "lxz¥,þ?                Ã¥ÃÖ6­?³ó{V§òï?&   	   conn=       op=
+   time=Cž-U}²SL   #                   1WÔÖSW‘?~7ŽCÓþï?ƒ†þ	.VÒ?                û
+!Joº³?ûªcu£çï?&   	   conn=      op=
+   time=Cž-UBòS0   $      n4€·@‚ù?                +ÕuÀZ¡¿†pðJûï?&   	   conn=       op=
+   time=Cž-UZ3TL   %                   Q¦ð¯™?r?^Ÿâ/ëÿï?¾Mö#EÒ?                âW††Å‚–?Ïx’3þï?&   	   conn=      op=
+   time=Cž-U¯qT0   &      ‘í|?5^õ?                ¶dïw€!¯¿Q£ã×ðï?&   	   conn=       op=
+   time=Cž-U¿²TL   '                   s¼U~Ñ?só&{Èî?Ã
+øü0BÒ?                ‡â"êQù¡?î=[óúï?&   	   conn=      op=
+   time=Cž-UDòT0   (      ÔC4ºƒØï?                Š_òØÐ¿^;É|5úî?&   	   conn=       op=
+   time=Cž-U3UL   )                   
+.Óy£¿D56úï?™
+2ÉÈYÒ?                ®+º•r€Ç?Ýò‘°»tï?&   	   conn=      op=
+   time=Cž-UUsU0   *            þ?                $‚ˆe·Å?oµ(M@‰ï?&   	   conn=       op=
+   time=Cž-Uë´UL   +                   /î7,€m¾?S,ÜÀíÅï?Cÿ+jÒ?                ÞaùxòœÔ?%¾TlxKî?&   	   conn=      op=
+   time=Cž-U¾ôU0   ,            þ?                $‚ˆe·Å?oµ(M@‰ï?&   	   conn=       op=
+   time=Cž-U@OVL   -                   ãŸçÚZ—?zÐAzÞýï?J˜iûWÒ?                EËNÿ.?#dMÿï?&   	   conn=      op=
+   time=Cž-Uí‘V0   .      —z6«ù?                ¥ê|RiÃ?‚r÷7C¡ï?&   	   conn=       op=
+   time=Cž-U3ÔVL   /                   ó9ŠäÒÝ¥?ïEK†øï?å›mnLOÒ?                ò¯‘¡œ·?{É¦Ýï?&   	   conn=      op=
+   time=Cž-U¬W0   0      ÆÜµ„|Ðô?                8!Fš‰¡?î
+e¼xûï?&   	   conn=       op=
+   time=Cž-UÁVWL   1                   üÙêSÐ‹Œ?yçûD4ÿï?ÙBƒfÒ?                ‚eÁöQŠ?aûÎRÿï?&   	   conn=      op=
+   time=Cž-UQ—W0   2      /Ý$ð?                ÍBý„Ï‹?‹&¨>ÿï?&   	   conn=       op=
+   time=Cž-U2ÙWL   3                   àÓI^Šj„?ûëØÊ—ÿï?CV·zNÒ?                4G[X•…?hÄÖ‹‹ÿï?&   	   conn=      op=
+   time=Cž-U5X0   4      XÊ2Ä±.é?                ‹jœU¥ÉV?É¯¸øýÿï?&   	   conn=       op=
+   time=Cž-Uy\XL   5                   yâHh¦…?e›×ÐŠÿï?„»³vÛ…Ò?                §¼"Oïwv?zR›ràÿï?&   	   conn=      op=
+   time=Cž-UbœX0   6      n†ðùaÞ?                Z9~ÖM…¿ôhºþÿï?&   	   conn=       op=
+   time=Cž-UÖàXL   7                   
+æ‚va¨à?ß	ŽMRë?6ê!ÝAÒ?                4¡×¼‰Í¼?¦,üËï?&   	   conn=      op=
+   time=Cž-Ua"Y0   8      +ö—Ý“‡ö?                ôýðÚùÀ˜¿FßÂ(›ýï?&   	   conn=       op=
+   time=Cž-U“eYL   9                   'HðŽ²A{¿Òê‘Ñÿï?ï_{fIÒ?                6‹W”Wu¿®Ó-ˆãÿï?&   	   conn=      op=
+   time=Cž-U‰¦Y0   :      +ö—Ý“‡ö?                ôýðÚùÀ˜¿FßÂ(›ýï?&   	   conn=       op=
+   time=Cž-UêYL   ;                   f5ö?%9¿NA{Øÿÿï?©MœÜïPÒ?                `ðNx^¥?6ŠË©Üøï?&   	   conn=      op=
+   time=Cž-U+Z0   <      ˜Ý“‡…Zò?                F“·be®¿[D‡Uñï?&   	   conn=       op=
+   time=Cž-U2nZL   =                   AZy»€ ?«Á¨¾ûï?UMu€Ò?                Û¢iòâj?žt´ôÿï?&   	   conn=      op=
+   time=Cž-Us¯Z0   >      'ˆº@jì?                :õ´£[wÀ¿M1ÍÔî»ï?&   	   conn=       op=
+   time=Cž-U1òZL   ?                   î‹² ÚÖ??ò®«ýãí?-&6×†Ò?                [òRP4Ï?úV™';
+ï?&   	   conn=      op=
+   time=Cž-UÀ3[0   @      ÓMbX¹@                -ôTß™´?ì¯ƒnåï?&   	   conn=       op=
+   time=Cž-UF[L   A                  €è]'‰aW•¿)'‚8þï¿ÅÉýEÒ?                Âç(q•?n¦ƒ04þï?&   	   conn=      op=
+   time=Cž-U.Â[0   B      ¡g³êsµ@                 vdØr¦?$Ü"Eøï?&   	   conn=       op=
+   time=Cž-U@\L   C                   ¦±2ÐŸ“?æFÚ~þï? F6ŽÒ?                Þ¾Š,d`?Mi>(ÿï?&   	   conn=      op=
+   time=Cž-U
+T\0   D      [±¿ìž<ÿ?                Ðãxö‡Š?á]Pÿï?&   	   conn=       op=
+   time=Cž-Uß¢\L   E          €        ã±Ÿ]”æ?z5ò‚9ç¿ªÔìV`Ò?                g‘9F_Â¿8À>-«ï?&   	   conn=      op=
+   time=Cž-U¬á\0   F      }iÆ¢ì?                kÂ"
+y­Ï¿×€è+ï?&   	   conn=       op=
+   time=Cž-Ua)]L   G                   ]³h¼i³?.
+uièï?jMóŽStÒ?                Cé&öéÂÁ?Ò6ÿ¿°ï?&   	   conn=      op=
+   time=Cž-UMh]0   H      }iÆ¢ì?                kÂ"
+y­Ï¿×€è+ï?&   	   conn=       op=
+   time=Cž-U]¨]L   I                   {j­!”?²KÖÚnþï?a¦í_YiÒ?                ~›|¿ø?C!èz ÿï?&   	   conn=      op=
+   time=Cž-Uùí]0   J      }iÆ¢ì?                kÂ"
+y­Ï¿×€è+ï?&   	   conn=       op=
+   time=Cž-UA-^L   K                   *ÒK¼¹¦Ž?Ô‹šÿï?ÛP1Îß„Ò?                …cTŒª5?@°*ÿï?&   	   conn=      op=
+   time=Cž-UHl^0   L      }iÆ¢ì?                kÂ"
+y­Ï¿×€è+ï?&   	   conn=       op=
+   time=Cž-U‹¬^L   M                   êþcKì„?$XÊ’ÿï?q
+à-Ò?                ëg“úZŒ„?ž1‡p–ÿï?&   	   conn=      op=
+   time=Cž-U7ë^0   N      }iÆ¢ì?                kÂ"
+y­Ï¿×€è+ï?&   	   conn=       op=
+   time=Cž-Uc,_L   O                   Òr=	yƒ?ôß‚2¡ÿï?ÿ>ãÂÒ?                P”Tö©x?¿ùøúÙÿï?&   	   conn=      op=
+   time=Cž-U†k_0   P      }iÆ¢ì?                kÂ"
+y­Ï¿×€è+ï?&   	   conn=       op=
+   time=Cž-U™­_L   Q                   ©Ç$°êDÅ¿ïŽï?Ð›ŠT[Ò?                N0t6P7¥¿  †½öøï?&   	   conn=      op=
+   time=Cž-Uí_0   R       Š°áé•² @                æT3e»ÇÉ?[žˆ Xï?&   	   conn=       op=
+   time=Cž-UÅ4`L   S                   €~ˆnõÔ?ìw—Ccî?Ã
+øü0BÒ?               €‹aÜ#ŠÚ¿08‹jrí¿&   	   conn=      op=
+   time=Cž-U‘u`0   T       š™™™™™ @                (V8”ÀßÄ?cý«U’ï?&   	   conn=       op=
+   time=Cž-UÀ·`L   U                   ‰L,ÏCŠ?{q,ˆSÿï?§"Æ‚Ò?                `‡Í‘‰?Î=Ž\ÿï?&   	   conn=      op=
+   time=Cž-U­÷`0   V       ™*•Ô	ý?                	SoißÛÄ?“Ñk²~’ï?&   	   conn=       op=
+   time=Cž-Uì9aL   W                   NÈCOî‡?ŸQïûzÿï?š”‚n/iÒ?                ˆtCÓˆ?!Íëeÿï?&   	   conn=      op=
+   time=Cž-Upza0   X       RI€&Âø?                Iv(¼ÃåÅ?Âd£	<‡ï?&   	   conn=       op=
+   time=Cž-UA½aL   Y                   °µOUõ§²?ú
+Ë7êï?öb('ÚUÒ?                ›[25¦?‡0dJøï?&   	   conn=      op=
+   time=Cž-Uþa0   Z       ›UŸ«­Øó?                àž²®|e³?‰S-Êsèï?&   	   conn=       op=
+   time=Cž-UMAbL   [                   ÏÏ¹ÖûÎ?‚4&«eï?‡m‹2dÒ?                Ùªi1tvÍ?œ-³$ï?&   	   conn=      op=
+   time=Cž-U[ƒb0   \      _ÎQÚú?                Ÿ§(þ‘àÇ¿R( 5pï?&   	   conn=       op=
+   time=Cž-UÜÒbL   ]                   ª«˜¾c¿Ÿ?n¹Øüï?É&pënÒ?                Úa§Œ¨?‡ƒê“öï?&   	   conn=      op=
+   time=Cž-UÄc0   ^      _ÎQÚú?                Ÿ§(þ‘àÇ¿R( 5pï?&   	   conn=       op=
+   time=Cž-UEYcL   _                   SætX¾?Ý—tJAÇï?`Í‚9zÒ?                `wÏ6Á¦?`¬ðÜç÷ï?&   	   conn=      op=
+   time=Cž-U›c0   `      \ AñcÌù?                `cÏ´¾È¿@Êxeï?&   	   conn=       op=
+   time=Cž-UÉßcL   a                   V» [T¿5ˆ§aþÿï?r¿CQ OÒ?                ¥ÑLI'I¿ËÐÕaÿÿï?&   	   conn=      op=
+   time=Cž-U-Td0   b      eª`TR'õ?                óÎè•ËÌ¿Q6`.ï?&   	   conn=       op=
+   time=Cž-U
+eL   c                   ?‰ÃÒ*O¿o&
+ÿÿï?­iÞqŠŽÒ?                1Ç(û€„7¿ÇÃnÝÿÿï?&   	   conn=      op=
+   time=Cž-UMLe0   d      5˜†á#å?                µ9–òERÐ¿^×_p"ñî?&   	   conn=       op=
+   time=Cž-UoªeL   e                   '¬W@J(:¿©<Õÿÿï?vT5AÔ}Ò?                )(ÄM¶`¿?$ýûÿï?&   	   conn=      op=
+   time=Cž-U¬f0   f      5˜†á#å?                µ9–òERÐ¿^×_p"ñî?&   	   conn=       op=
+   time=Cž-U6QfL   g                   }0þ „3¡¿ø‡"`ûï?6ê!ÝAÒ?                c£È2kÈ¸?¿èÍ…Ùï?&   	   conn=      op=
+   time=Cž-U–f0   h      ¯”eˆc]ù?                ¥{žž*ÂÌ¿mÇbv.ï?&   	   conn=       op=
+   time=Cž-UaÜfL   i                   jµ.¹
+ñŸ?aá|üï?©MœÜïPÒ?                H”þéØ´?³ì[¾·æï?&   	   conn=      op=
+   time=Cž-U~,g0   j      ¯”eˆc]ù?                ¥{žž*ÂÌ¿mÇbv.ï?&   	   conn=       op=
+   time=Cž-U,}gL   k                   ñ4HŽÏ?SŠaåþï?¡ÛK£uÒ?                ¬€3Àz?Ã‰4FÓÿï?&   	   conn=      op=
+   time=Cž-UÑ¼g0   l      ¯”eˆc]ù?                ¥{žž*ÂÌ¿mÇbv.ï?&   	   conn=       op=
+   time=Cž-UÿgL   m                   ™$Â ´ö¦¿RJYÁ÷ï? ¦–­õEÒ?                dùv`žŸ¿×?¸üï?&   	   conn=      op=
+   time=Cž-U€=h0   n      ¶óýÔxé÷?                f!º}Î¿Àý`7ï?&   	   conn=       op=
+   time=Cž-U—~hL   o                   …6ŠEæŠb?'‘° úÿï?z]¢zkÒ?                äd¢Ì³R?¦ 9¢þÿï?&   	   conn=      op=
+   time=Cž-U¾h0   p      ÆÜµ„|Ðå?                užb!'Ð¿R¹ïÎöî?&   	   conn=       op=
+   time=Cž-UÿhL   q                   3êCŠFd?È|í³ùÿï?À[ AñcÒ?                GnÅ»JU?>GÃ:þÿï?&   	   conn=      op=
+   time=Cž-Uß=i0   r      ÆÜµ„|Ðå?                užb!'Ð¿R¹ïÎöî?&   	   conn=       op=
+   time=Cž-U-iL   s                   "=ÜÁH?v³Boÿÿï?£Ó0|DÒ?                páÊÑ„t¿Ã"š¯åÿï?&   	   conn=      op=
+   time=Cž-UÑ¾i0   t      ÆÜµ„|Ðå?                užb!'Ð¿R¹ïÎöî?&   	   conn=       op=
+   time=Cž-UÉÿiL   u                   òHÀÎVäµ?þÉgÏýáï?1%’èeÒ?                Fí˜ÁÓ?µq’â¨Šî?&   	   conn=      op=
+   time=Cž-U>j0   v      Â&S# @                (oãjeMÏ?13ÎÍCï?&   	   conn=       op=
+   time=Cž-Uð~jL   w                   Ä«­×óª?ò.1ä¤ôï?Ä”H¢—QÒ?                ò]'‹ƒÀ?„,5„‰»ï?&   	   conn=      op=
+   time=Cž-U
+¾j0   x      1™*•Ôÿ?                F±WØîÇ?¾=dÚzï?&   	   conn=       op=
+   time=Cž-U7ÿjL   y                   úÅEþÕŒ?Ì¢¼0ÿï?
+¦aøˆ˜Ò?                mþÇzT?^]«¦Âÿï?&   	   conn=      op=
+   time=Cž-UF>k0   z      6«>W[±û?                +z+gÔSÇ?ë‚ Ïvï?&   	   conn=       op=
+   time=Cž-Uw€kL   {                   ¶–K$„?T•rh–ÿï?­4)Ý^Ò?                ­ä	@œ£?‘+úVúï?&   	   conn=      op=
+   time=Cž-U$Âk0   |      âé•²q÷?                 æL÷Ç?œ”.zï?&   	   conn=       op=
+   time=Cž-UÁlL   }                   cÌãw¹/±?U=±„íï?@¼®_Ò?                6NE1 ½”?æT6ÇQþï?&   	   conn=      op=
+   time=Cž-U…Dl0   ~      ÍÌÌÌÌÌò?                /ú‹{Ï:º?×wúâÔï?&   	   conn=       op=
+   time=Cž-U÷†lL                      ÅÙw©ø?|?Ú	óÎÿï?|›þìGŠÒ?                Ë ?•¹y? ²^¥Öÿï?&   	   conn=      op=
+   time=Cž-UdÇl0   €      C¨R³î?                -ÅRê¾?ê`N˜Äï?&   	   conn=       op=
+   time=Cž-U…
+mL                      °t½<}­™?NÅllýï?B&9{Ò?                úå.)¼&¯?›ÁôÈÒðï?&   	   conn=      op=
+   time=Cž-UvJm0   ‚      L¦
+F%uå?                mK ×íã¶?Ü2 °/ßï?&   	   conn=       op=
+   time=Cž-UœmL   ƒ                   ’ËþÜ³?°_ùëçï?ï_{fIÒ?                ˆ@Ž1Ò?¹:ÖŸî?&   	   conn=      op=
+   time=Cž-UºÎm0   „      •Ô	h"ø?                Àœ*EÕå°¿ÎPs"îï?&   	   conn=       op=
+   time=Cž-UƒnL   …                   ÉØ_Å§Ö?ìq´íí?û:pÎˆÒ?                :G&:M—¿œmAöàýï?&   	   conn=      op=
+   time=Cž-UTn0   †      •Ô	h"ø?                Àœ*EÕå°¿ÎPs"îï?&   	   conn=       op=
+   time=Cž-U³—nL   ‡                   è
+ã›nu¢¿8Ý¨¬úï?üûŒBÒ?                ½rûx»˜¿Rü.9œýï?&   	   conn=      op=
+   time=Cž-U“Øn0   ˆ      •Ô	h"ø?                Àœ*EÕå°¿ÎPs"îï?&   	   conn=       op=
+   time=Cž-UoL   ‰                   uAJ}¨¬s¿ÍƒŸÎçÿï?v¦Ðy]Ò?                _õc“Ãÿh¿7·-<öÿï?&   	   conn=      op=
+   time=Cž-U¦]o0   Š      ”ö_˜Ló?                ‡¡‰‡ëW°¿…KÀèIïï?&   	   conn=       op=
+   time=Cž-U¬oL   ‹                   
+¢^v¥?Öœ“§Ìøï?üûŒBÒ?                dAvÓ>?Ê?êÀÍlìQï?&   	   conn=      op=
+   time=Cž-Ußïo0   Œ      XÎüjè?                Ø?ÌÆæöÍ¿ ¤oÈ^ï?&   	   conn=       op=
+   time=Cž-U­3pL                      Ëüpn‹»?2hUqÐï?§"Æ‚Ò?                Ö“÷µUŠ˜?#Ù¯¥ýï?&   	   conn=      op=
+   time=Cž-Uup0   Ž      XÎüjè?                Ø?ÌÆæöÍ¿ ¤oÈ^ï?&   	   conn=       op=
+   time=Cž-Uö·pL                      ÏƒJ ×?Ð§eäþï?«&ˆº@Ò?                =!,i,ê?ýÍXÿï?&   	   conn=      op=
+   time=Cž-UÎq0         XÎüjè?                Ø?ÌÆæöÍ¿ ¤oÈ^ï?&   	   conn=       op=
+   time=Cž-UVqL   ‘                   ã
+Íš”8? f±Üøþï?B•š=Ò?                ÂwÀ²âQŒ?µ³™|7ÿï?&   	   conn=      op=
+   time=Cž-Uý›q0   ’      XÎüjè?                Ø?ÌÆæöÍ¿ ¤oÈ^ï?&   	   conn=       op=
+   time=Cž-UoÜqL   “                   Û˜—²áîÛ¿Us /ŽÊì?lxz¥,CÒ?                Í\NÒ=ž¿"Rµ@müï?&   	   conn=      op=
+   time=Cž-Uzr0   ”      “:M„
+ø?                £FZñÐ¿0Ëhúî?&   	   conn=       op=
+   time=Cž-UJ[rL   •                   RA¯™(ž™?\( oýï?Ã
+øü0BÒ?                õIcVg ´?Q½ ]åï?&   	   conn=      op=
+   time=Cž-Ué™r0   –      “:M„
+ø?                £FZñÐ¿0Ëhúî?&   	   conn=       op=
+   time=Cž-U§ÙrL   —                   Z{CÜœ?H¤Ò(ìüï?a¦í_YiÒ?                gô†ì»‰„?5Tt‹–ÿï?&   	   conn=      op=
+   time=Cž-Us0   ˜      “:M„
+ø?                £FZñÐ¿0Ëhúî?&   	   conn=       op=
+   time=Cž-UXsL   ™                   jS¶m!v?Ï½cáÿï?Ù”+¼ËEÒ?                9 »‚{u?â¯äÿï?&   	   conn=      op=
+   time=Cž-Uæ–s0   š      Ýµ„|Ð³ï?                IYJGxÏ¿0ÎYF7ï?&   	   conn=       op=
+   time=Cž-UçÖsL   ›                   ©2æŒÏI­¿á÷•òï?ãÂ,`Ò?                'ù’g'³¿ÐÌ	éï?&   	   conn=      op=
+   time=Cž-UÛt0   œ      Ä|yöÑî?                ‹™×žÎ¿Uyn»$ï?&   	   conn=       op=
+   time=Cž-UÒXtL                      Æ®2³JO¿À¯4ÿÿï?¯BÊOª}Ò?                õ}ý<¿t¿D`ÿï?&   	   conn=      op=
+   time=Cž-U ˜t0   ž      eßÁÿVâ?                ˜b«XÌ¿­ƒ§l1ï?&   	   conn=       op=
+   time=Cž-UÞÚtL   Ÿ                   Êo°"ìÎ?iïéŸ[
+ï?ÈÍp>?Ò?               € E¡ ß¿$8®®þë¿&   	   conn=      op=
+   time=Cž-U9u0           ioð…ÉÔ@                ugûQ¢ì¿?!9z
+Àï?&   	   conn=       op=
+   time=Cž-Ux]uL   ¡          €        ê·-Ôÿë? 
+n}üÞ¿(
+ô‰<IÒ?                ¼>ß .Î¿Žtûh
+ï?&   	   conn=      op=
+   time=Cž-U*u0   ¢      §t°þÏaÒ?                A¡¿«¢?)§ˆíúï?&   	   conn=       op=
+   time=Cž-U’àuL   £                   •³–:äÿï¿/\e{Ju?í»"øßJÒ?                ÂŽ†Êÿÿï?¤Ò{ì@=?&   	   conn=      op=
+   time=Cž-UV#v0   ¤      âX·Ñ á?                #òý{Wšú¾“ÄÓÿÿÿï?&   	   conn=       op=
+   time=Cž-U’gvL   ¥                  €Às96ï¿NÑéÙŠÇÍ¿‰{,}è‚Ò?       €        ’„ƒ5!Ê?Ì‹ó©Mï¿&   	   conn=      op=
+   time=Cž-UÓ¨v0   ¦       Õçj+ö—þ?                SR‹z[‹Ð¿š¾w>éî?&   	   conn=       op=
+   time=Cž-ULìvL   §                  €XxuéÕ¿ýÎ§Ùçî¿KÍh†Ò?                ,ÐAÒ?m©?R›«î?&   	   conn=      op=
+   time=Cž-U.w0   ¨       Õçj+ö—þ?                SR‹z[‹Ð¿š¾w>éî?&   	   conn=       op=
+   time=Cž-UqwL   ©                   zÙt¿Óÿï?}%
+.Ø›z?Gæ‘?xÒ?               €Oml-Ìöï¿•Ø·¯÷B¨¿&   	   conn=      op=
+   time=Cž-UP²w0   ª       Õçj+ö—þ?                SR‹z[‹Ð¿š¾w>éî?&   	   conn=       op=
+   time=Cž-UrõwL   «                   kPY7&	ã?2–à¡í¸é?ä÷6ýÙÒ?                ûK÷²(ëï?ÑêJ|É?²?&   	   conn=      op=
+   time=Cž-U6x0   ¬       . ø1æ @                ÍPÖîÎ¿¬Aµ0
+ï?&   	   conn=       op=
+   time=Cž-UzxL   ­                  €u(æáÿï¿3 ±0£†¿ô¾ñµgÒ?                âeIÇ…ÿï?¤*ƒMF†?&   	   conn=      op=
+   time=Cž-U¼x0   ®       . ø1æ @                ÍPÖîÎ¿¬Aµ0
+ï?&   	   conn=       op=
+   time=Cž-U~þxL   ¯                  €¯ÇGžÿï¿Ò¤¢õ9Åƒ¿ÊTÁ¨¤NÒ?       €        †(´ ÿï?%ì*•|ô¿&   	   conn=      op=
+   time=Cž-UÇ?y0   °       . ø1æ @                ÍPÖîÎ¿¬Aµ0
+ï?&   	   conn=       op=
+   time=Cž-U¬ƒyL   ±                  €&Ž£}ê[è¿?×cuÀä¿ú›Pˆ€CÒ?                Tr ,0’?aA–´¸þï?&   	   conn=      op=
+   time=Cž-UïÃy0   ²      óÒo_ @                ëÉí­°¨È?ÌÈFþ‹fï?/   	   conn=    
+   count=Y      op=   ver=   ,  Cž-UÍ`IÊ  Cž-U 
+KW  Cž-U—œK/  Cž-U×.L  Cž-UÀ³Lß  Cž-UO=M·  Cž-U;ÀM  Cž-UHDNg	  Cž-UÍÊN?
+  Cž-U:fO  Cž-UñíOï  Cž-UÝrPÇ  Cž-UaøPŸ
+  Cž-U%Qw  Cž-U,RO  Cž-U-°R'  Cž-Uš2Sÿ  Cž-U}²S×  Cž-UZ3T¯  Cž-U¿²T‡  Cž-U3U_  Cž-Uë´U7  Cž-U@OV  Cž-U3ÔVç  Cž-UÁVW¿  Cž-U2ÙW—  Cž-Uy\Xo  Cž-UÖàXG  Cž-U“eY  Cž-UêY÷  Cž-U2nZÏ  Cž-U1òZ§  Cž-UF[  Cž-U@\W  Cž-Uß¢\/   Cž-Ua)]!  Cž-U]¨]ß!  Cž-UA-^·"  Cž-U‹¬^#  Cž-Uc,_g$  Cž-U™­_?%  Cž-UÅ4`&  Cž-UÀ·`ï&  Cž-Uì9aÇ'  Cž-UA½aŸ(  Cž-UMAbw)  Cž-UÜÒbO*  Cž-UEYc'+  Cž-UÉßcÿ+  Cž-U
+e×,  Cž-Uoªe¯-  Cž-U6Qf‡.  Cž-UaÜf_/  Cž-U,}g70  Cž-Uÿg1  Cž-U—~hç1  Cž-Uÿh¿2  Cž-U-i—3  Cž-UÉÿio4  Cž-Uð~jG5  Cž-U7ÿj6  Cž-Uw€k÷6  Cž-UÁlÏ7  Cž-U÷†l§8  Cž-U…
+m9  Cž-UœmW:  Cž-Uƒn/;  Cž-U³—n<  Cž-Uoß<  Cž-U¬o·=  Cž-U­3p>  Cž-Uö·pg?  Cž-UVq?@  Cž-UoÜqA  Cž-UJ[rïA  Cž-U§ÙrÇB  Cž-UXsŸC  Cž-UçÖswD  Cž-UÒXtOE  Cž-UÞÚt'F  Cž-Ux]uÿF  Cž-U’àu×G  Cž-U’gv¯H  Cž-ULìv‡I  Cž-Uqw_J  Cž-Urõw7K  Cž-UzxL  Cž-U~þxçL  Cž-U¬ƒy¿M  /   	   conn=   
+   count=Y      op=   ver=   ,  Cž-UÂuJù  Cž-U¢UKÑ  Cž-UXêK©  Cž-UppL  Cž-U£óLY  Cž-U«}M1  Cž-UåÿM		  Cž-UN…Ná	  Cž-U7O¹
+  Cž-Uª©O‘  Cž-Uý.Pi  Cž-Uq´PA
+  Cž-U1;Q  Cž-U¸ÁQñ  Cž-UTRÉ  Cž-UŸðR¡  Cž-U=qSy  Cž-UBòSQ  Cž-U¯qT)  Cž-UDòT  Cž-UUsUÙ  Cž-U¾ôU±  Cž-Uí‘V‰  Cž-U¬Wa  Cž-UQ—W9  Cž-U5X  Cž-UbœXé  Cž-Ua"YÁ  Cž-U‰¦Y™  Cž-U+Zq  Cž-Us¯ZI  Cž-UÀ3[!  Cž-U.Â[ù  Cž-U
+T\Ñ  Cž-U¬á\©   Cž-UMh]!  Cž-Uùí]Y"  Cž-UHl^1#  Cž-U7ë^	$  Cž-U†k_á$  Cž-Uí_¹%  Cž-U‘u`‘&  Cž-U­÷`i'  Cž-UpzaA(  Cž-Uþa)  Cž-U[ƒbñ)  Cž-UÄcÉ*  Cž-U›c¡+  Cž-U-Tdy,  Cž-UMLeQ-  Cž-U¬f).  Cž-U–f/  Cž-U~,gÙ/  Cž-UÑ¼g±0  Cž-U€=h‰1  Cž-U¾ha2  Cž-Uß=i93  Cž-UÑ¾i4  Cž-U>jé4  Cž-U
+¾jÁ5  Cž-UF>k™6  Cž-U$Âkq7  Cž-U…DlI8  Cž-UdÇl!9  Cž-UvJmù9  Cž-UºÎmÑ:  Cž-UTn©;  Cž-U“Øn<  Cž-U¦]oY=  Cž-Ußïo1>  Cž-Uup	?  Cž-UÎqá?  Cž-Uý›q¹@  Cž-Uzr‘A  Cž-Ué™riB  Cž-UsAC  Cž-Uæ–sD  Cž-UÛtñD  Cž-U ˜tÉE  Cž-U9u¡F  Cž-U*uyG  Cž-UV#vQH  Cž-UÓ¨v)I  Cž-U.wJ  Cž-UP²wÙJ  Cž-U6x±K  Cž-U¼x‰L  Cž-UÇ?yaM  Cž-UïÃy9N  (   	   conn=       op=   topic=Movementsš  '   md5sum=720b0c53a7b95aaae8783915252c8f0dW  message_definition=int32 timeTag
+geometry_msgs/Quaternion rotation1
+float64 translation
+geometry_msgs/Quaternion rotation2
+
+================================================================================
+MSG: geometry_msgs/Quaternion
+# This represents an orientation in free space in quaternion form.
+
+float64 x
+float64 y
+float64 z
+float64 w
+   type=lab3/Motion+   	   conn=      op=   topic=Observations‚  '   md5sum=b962468f892f707011ae231ec4acdeb5:  message_definition=int32 timeTag
+int32 tagNum
+float64 range
+geometry_msgs/Quaternion bearing 
+
+================================================================================
+MSG: geometry_msgs/Quaternion
+# This represents an orientation in free space in quaternion form.
+
+float64 x
+float64 y
+float64 z
+float64 w
+   type=lab3/Observationd      chunk_pos=      
+   count=      end_time=Cž-UïÃy   op=   start_time=Cž-UÍ`I   ver=          Y      Y   
